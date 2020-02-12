@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">troll</string>
+    <string name="like">%d J\'aime</string>
+    <string name="voirrepo">Voir les réponses(%d)</string>
+    <string name="replayto">Relaying to %s</string>
+    <string name="addcommennt">Add a comment…</string>
+</resources>

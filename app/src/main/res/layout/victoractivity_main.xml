@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+    </data>
+
+    <!-- <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="@dimen/activity_vertical_margin">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/icons_size">
+
+            <ImageView
+                app:animateOnClick="@{null}"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/avd_alarm"/>
+
+            <ImageView
+                app:animateOnClick="@{null}"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/avd_clock"/>
+
+            <ImageView
+                app:animateOnClick="@{null}"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/avd_timer"/>
+
+            <ImageView
+                app:animateOnClick="@{@drawable/avd_pause_play}"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:src="@drawable/avd_play_pause"/>
+
+            <ImageView
+                app:animateOnClick="@{@drawable/avd_pause_play2}"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:src="@drawable/avd_play_pause2"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/icons_size">
+
+            <ImageView
+                app:animateOnClick="@{@drawable/avd_list_bulleted_single_to_many}"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/avd_list_bulleted_many_to_single"/>
+
+            <ImageView
+                app:animateOnClick="@{@drawable/avd_bulb_on_to_off}"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/avd_bulb_off_to_on"/>
+
+            <ImageView
+                app:animateOnClick="@{@drawable/avd_flashlight_on_to_off}"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/avd_flashlight_off_to_on"/>
+
+            <ImageView
+                app:animateOnClick="@{@drawable/avd_power_on_to_off}"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/avd_power_off_to_on"/>
+        </LinearLayout>
+    </LinearLayout> -->
+</layout>
